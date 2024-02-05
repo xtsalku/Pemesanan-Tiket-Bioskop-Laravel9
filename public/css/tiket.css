@@ -1,0 +1,33 @@
+.container2{
+    background-color: gray;
+}
+#content {
+    flex: 1;
+    padding: 20px;
+    transition: margin-left 0.3s;
+}
+
+.toggle-btn {
+    font-size: 24px;
+    cursor: pointer;
+    color: #f1f0ec;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #1d0606;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #110f0f;
+}
+
+
